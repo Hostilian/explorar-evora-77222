@@ -1,0 +1,31 @@
+EXPLORAR EVORA - Eren Ozturk - 77222
+INF13207L / Tecnologias Web / 2026-2027
+Contact: ex77222@alunos.uevora.pt
+
+PUBLIC PROJECT DEMO
+https://hostilian.github.io/explorar-evora-77222/
+
+PROJECT SOURCE DOWNLOAD
+https://hostilian.github.io/explorar-evora-77222/projeto.zip
+
+TWO-PAGE TECHNICAL REPORT
+https://hostilian.github.io/explorar-evora-77222/relatorio.pdf
+
+RELATED STUDY RESOURCES (separate from this project)
+https://hostilian.github.io/EVORACLASSES/
+https://github.com/Hostilian/EVORACLASSES
+
+Project repository: https://github.com/Hostilian/explorar-evora-77222
+This project has its own GitHub repository and GitHub Pages website.
+EVORACLASSES is the separate study-resources site.
+Both website home pages returned HTTP 200 without login on 16 November 2026.
+
+LOCAL USE
+Extract the archive and open tweb-t1-77222/index.html.
+Internet is required for university event data and OpenStreetMap.
+No framework, installation, compilation or Node.js is required to use the app.
+See README.txt for usage, verification and course-submission checks.
+
+The archive has a descriptive outer name with the author's name and number.
+The internal folder remains tweb-t1-77222. Confirm the solo naming convention
+against the current Moodle instructions before submitting.

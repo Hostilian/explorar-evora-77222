@@ -1,0 +1,18 @@
+EXPLORAR ÉVORA — IMAGE & DESIGN ATTRIBUTION
+
+Hero photograph: Roman Temple columns in Évora, Portugal.
+Photographer: Efe Ersoy. Source: Pexels photo ID 14967427.
+https://www.pexels.com/photo/columns-in-a-traditional-temple-in-portugal-14967427/
+License: Pexels License, https://www.pexels.com/license/
+Adaptations: cropped, darkened and tinted with CSS in the hero; reused as a
+subtle background accent in the participation banner.
+Local image filename: evora-temple.jpg.
+
+Design: custom HTML/CSS built specifically for the coursework, informed by
+general editorial and motion design patterns. No third-party portfolio
+template source files were copied.
+Relevant open-source reference researched:
+https://github.com/codewithsadee/vcard-personal-portfolio (MIT).
+
+Service credits: Évora university support API https://magno.di.uevora.pt/tweb
+and event-detail maps from OpenStreetMap. Those dynamic services need internet.
