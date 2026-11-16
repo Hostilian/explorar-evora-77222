@@ -42,7 +42,7 @@ function setConnection(connected){const p=el('api-pill');p.textContent=connected
 function card(event,i){
  const dt=miniDate(event.datetime),place=event.location?.address||'Local não indicado';
  const when=parseDate(event.datetime),time=when?new Intl.DateTimeFormat('pt-PT',{hour:'2-digit',minute:'2-digit'}).format(when):'Hora a confirmar';
- return '<article class="event-card"><div class="event-card-top"><span class="event-glyph" aria-hidden="true">'+['✳','✦','☼','✺'][i%4]+'</span><div class="date-stamp"><strong>'+esc(dt.day)+'</strong><span>'+esc(dt.month)+'</span></div></div>'+
+ return '<article class="event-card"><div class="event-card-top"><span class="event-glyph" aria-hidden="true">'+['01','02','03','04'][i%4]+'</span><div class="date-stamp"><strong>'+esc(dt.day)+'</strong><span>'+esc(dt.month)+'</span></div></div>'+
  '<div class="event-card-body"><span class="event-category">Évora · Agenda cultural</span><h3>'+esc(event.name)+'</h3><p>'+esc(String(event.description||'').slice(0,160))+'</p><div class="card-at-a-glance"><span>◷ '+esc(time)+'</span><span>⧖ '+esc(duration(event.duration))+'</span></div>'+
  '<div class="event-card-footer"><span>⌖ '+esc(place)+'</span><button type="button" data-detail="'+esc(event.id)+'">Descobrir ↗</button></div></div></article>';
 }
